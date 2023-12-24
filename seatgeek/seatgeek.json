@@ -1,0 +1,1871 @@
+{
+    "events": [
+        {
+            "type": "family",
+            "id": 6284343,
+            "datetime_utc": "2023-12-24T09:30:00",
+            "venue": {
+                "state": "LA",
+                "name_v2": "Raising Cane's River Center",
+                "postal_code": "70802",
+                "name": "Raising Cane's River Center",
+                "links": [],
+                "timezone": "America\/Chicago",
+                "url": "https:\/\/seatgeek.com\/venues\/raising-cane-s-river-center\/tickets",
+                "score": 0.64,
+                "location": {
+                    "lat": 30.4455,
+                    "lon": -91.19
+                },
+                "address": "275 South River Road",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 68,
+                "city": "Baton Rouge",
+                "slug": "raising-cane-s-river-center",
+                "extended_address": "Baton Rouge, LA 70802",
+                "id": 1333,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 716,
+                "capacity": 12000,
+                "display_location": "Baton Rouge, LA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater_family",
+                    "name": "Skating On The River",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/skating-on-the-river-1762a1\/10421\/huge.jpg",
+                    "id": 10421,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/skating-on-the-river-1762a1\/10421\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3050000,
+                            "name": "family",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "family"
+                        }
+                    ],
+                    "image_attribution": "https:\/\/www.flickr.com\/photos\/30478819@N08\/33015766008\/in\/photolist-SiuqYY-2aAJ6nb-27tFEJr-TfEqvU-5aFqe6-2fRfscU-5DcTqo-aeB1dg-bwAYdx-2bPCenq-8ARy1R-bEMH74-8AVpGL-8hqR5S-VdZ7nk-jxcedC-22scg7N-9xTeGb-JpxkhQ-aZSDGK-TeZcdy-UyCnMt-KAvtd8-Zs5p3j-dAxQMP-wWQ9yZ-SVBXhi-U6EHKs-2avypie-27tFDtv-28L2Gyd-27tFTRP-266CDAq-55FPdQ-cQMWE3-cQMWJC-23gcZ9w-eUSFKb-o7da-6iS3sK-bdJx7r-4Li5MP-aFafGG-4Li66X-7JPSpe-4faxNq-bVSDK2-bVSCu4-bVSyga-bVSzfF",
+                    "url": "https:\/\/seatgeek.com\/skating-on-the-river-tickets",
+                    "score": 0.29,
+                    "slug": "skating-on-the-river",
+                    "home_venue_id": null,
+                    "short_name": "Skating On The River",
+                    "num_upcoming_events": 7,
+                    "colors": null,
+                    "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/30478819@N08\/33015766008\/in\/photolist-SiuqYY-2aAJ6nb-27tFEJr-TfEqvU-5aFqe6-2fRfscU-5DcTqo-aeB1dg-bwAYdx-2bPCenq-8ARy1R-bEMH74-8AVpGL-8hqR5S-VdZ7nk-jxcedC-22scg7N-9xTeGb-JpxkhQ-aZSDGK-TeZcdy-UyCnMt-KAvtd8-Zs5p3j-dAxQMP-wWQ9yZ-SVBXhi-U6EHKs-2avypie-27tFDtv-28L2Gyd-27tFTRP-266CDAq-55FPdQ-cQMWE3-cQMWJC-23gcZ9w-eUSFKb-o7da-6iS3sK-bdJx7r-4Li5MP-aFafGG-4Li66X-7JPSpe-4faxNq-bVSDK2-bVSCu4-bVSyga-bVSzfF) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich) on Flickr. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T03:30:00",
+            "time_tbd": true,
+            "short_title": "Skating On The River - Baton Rouge",
+            "visible_until_utc": "2023-12-25T06:00:00",
+            "stats": {
+                "listing_count": 4,
+                "average_price": 53,
+                "lowest_price_good_deals": null,
+                "lowest_price": 50,
+                "highest_price": 61,
+                "visible_listing_count": 4,
+                "dq_bucket_counts": null,
+                "median_price": 50,
+                "lowest_sg_base_price": 32,
+                "lowest_sg_base_price_good_deals": null,
+                "ticket_count": 24
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                },
+                {
+                    "id": 3050000,
+                    "name": "family",
+                    "parent_id": 3000000,
+                    "rank": 0,
+                    "seo_event_type": "family"
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/skating-on-the-river-tickets\/family\/2023-12-24-3-30-am\/6284343",
+            "score": 0.25,
+            "announce_date": "2023-11-18T00:00:00",
+            "created_at": "2023-11-18T11:56:25",
+            "date_tbd": false,
+            "title": "Skating On The River - Baton Rouge",
+            "popularity": 0.675,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-11-18T13:12:43Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "concert",
+            "id": 4915568,
+            "datetime_utc": "2023-12-24T11:30:00",
+            "venue": {
+                "state": "CA",
+                "name_v2": "Red Devil Lounge",
+                "postal_code": "94109",
+                "name": "Red Devil Lounge",
+                "links": [],
+                "timezone": "America\/Los_Angeles",
+                "url": "https:\/\/seatgeek.com\/venues\/red-devil-lounge\/tickets",
+                "score": 0.38,
+                "location": {
+                    "lat": 37.7922,
+                    "lon": -122.421
+                },
+                "address": "1695 Polk St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 11,
+                "city": "San Francisco",
+                "slug": "red-devil-lounge",
+                "extended_address": "San Francisco, CA 94109",
+                "id": 2545,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 807,
+                "capacity": 0,
+                "display_location": "San Francisco, CA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Pop Rocks",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/pop-rocks-72a4a2\/13523\/huge.jpg",
+                    "id": 13523,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/pop-rocks-72a4a2\/13523\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 11
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": ""
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https:\/\/seatgeek.com\/pop-rocks-tickets",
+                    "score": 0.31,
+                    "slug": "pop-rocks",
+                    "home_venue_id": null,
+                    "short_name": "Pop Rocks",
+                    "num_upcoming_events": 11,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "genres": [
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-95bfc1\/35\/1200x525.jpg",
+                                "1200x627": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-5aed70\/35\/1200x627.jpg",
+                                "136x136": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-ea1e7e\/35\/136x136.jpg",
+                                "500_700": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-23f9f5\/35\/500_700.jpg",
+                                "800x320": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-1ad124\/35\/800x320.jpg",
+                                "banner": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-397e97\/35\/banner.jpg",
+                                "block": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-9e502b\/35\/block.jpg",
+                                "criteo_130_160": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-310144\/35\/criteo_130_160.jpg",
+                                "criteo_170_235": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-19e3f0\/35\/criteo_170_235.jpg",
+                                "criteo_205_100": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-92ebf3\/35\/criteo_205_100.jpg",
+                                "criteo_400_300": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-bab6e1\/35\/criteo_400_300.jpg",
+                                "fb_100x72": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-c1dbf4\/35\/fb_100x72.jpg",
+                                "fb_600_315": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-15afb9\/35\/fb_600_315.jpg",
+                                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-c1e4b6\/35\/huge.jpg",
+                                "ipad_event_modal": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-3ebde5\/35\/ipad_event_modal.jpg",
+                                "ipad_header": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-a807ae\/35\/ipad_header.jpg",
+                                "ipad_mini_explore": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-69d4a9\/35\/ipad_mini_explore.jpg",
+                                "mongo": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-5a3f01\/35\/mongo.jpg",
+                                "square_mid": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-db2f1f\/35\/square_mid.jpg",
+                                "triggit_fb_ad": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-c3abf8\/35\/triggit_fb_ad.jpg"
+                            },
+                            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/taylor-swift-c1e4b6\/35\/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-b808d2\/2351\/1200x525.jpg",
+                                "1200x627": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-f6d519\/2351\/1200x627.jpg",
+                                "136x136": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-159c25\/2351\/136x136.jpg",
+                                "500_700": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-6e659f\/2351\/500_700.jpg",
+                                "800x320": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-0810f9\/2351\/800x320.jpg",
+                                "banner": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-5270ef\/2351\/banner.jpg",
+                                "block": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-ad0220\/2351\/block.jpg",
+                                "criteo_130_160": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-e36892\/2351\/criteo_130_160.jpg",
+                                "criteo_170_235": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-7f6d9b\/2351\/criteo_170_235.jpg",
+                                "criteo_205_100": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-049f1b\/2351\/criteo_205_100.jpg",
+                                "criteo_400_300": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-7c7fa3\/2351\/criteo_400_300.jpg",
+                                "fb_100x72": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-ea37be\/2351\/fb_100x72.jpg",
+                                "fb_600_315": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-1fac50\/2351\/fb_600_315.jpg",
+                                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-596c64\/2351\/huge.jpg",
+                                "ipad_event_modal": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-2b8ef2\/2351\/ipad_event_modal.jpg",
+                                "ipad_header": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-43d9e5\/2351\/ipad_header.jpg",
+                                "ipad_mini_explore": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-4fa826\/2351\/ipad_mini_explore.jpg",
+                                "mongo": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-c7bf4b\/2351\/mongo.jpg",
+                                "square_mid": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-ed28b0\/2351\/square_mid.jpg",
+                                "triggit_fb_ad": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-490583\/2351\/triggit_fb_ad.jpg"
+                            },
+                            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-596c64\/2351\/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 473,
+                            "name": "Hard Rock",
+                            "slug": "hard-rock",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-772b0c\/8936\/1200x525.jpg",
+                                "1200x627": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-78e364\/8936\/1200x627.jpg",
+                                "136x136": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-ea41a0\/8936\/136x136.jpg",
+                                "500_700": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-f29212\/8936\/500_700.jpg",
+                                "800x320": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-5aa136\/8936\/800x320.jpg",
+                                "banner": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-35108f\/8936\/banner.jpg",
+                                "block": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-e077ca\/8936\/block.jpg",
+                                "criteo_130_160": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-a98d16\/8936\/criteo_130_160.jpg",
+                                "criteo_170_235": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-baed87\/8936\/criteo_170_235.jpg",
+                                "criteo_205_100": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-089d53\/8936\/criteo_205_100.jpg",
+                                "criteo_400_300": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-c62515\/8936\/criteo_400_300.jpg",
+                                "fb_100x72": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-648b00\/8936\/fb_100x72.jpg",
+                                "fb_600_315": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-bb32f1\/8936\/fb_600_315.jpg",
+                                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-384fcd\/8936\/huge.jpg",
+                                "ipad_event_modal": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-58f63b\/8936\/ipad_event_modal.jpg",
+                                "ipad_header": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-07224f\/8936\/ipad_header.jpg",
+                                "ipad_mini_explore": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-5315ff\/8936\/ipad_mini_explore.jpg",
+                                "mongo": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-cd9bfd\/8936\/mongo.jpg",
+                                "square_mid": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-6a346c\/8936\/square_mid.jpg",
+                                "triggit_fb_ad": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-7d7b9f\/8936\/triggit_fb_ad.jpg"
+                            },
+                            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/eagles-384fcd\/8936\/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T03:30:00",
+            "time_tbd": true,
+            "short_title": "Pop Rocks",
+            "visible_until_utc": "2023-12-25T08:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null,
+                "ticket_count": null
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": ""
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/pop-rocks-tickets\/san-francisco-california-red-devil-lounge-2023-12-24-3-30-am\/concert\/4915568",
+            "score": 0.239,
+            "announce_date": "2019-07-03T00:00:00",
+            "created_at": "2019-07-03T16:16:15",
+            "date_tbd": false,
+            "title": "Pop Rocks",
+            "popularity": 0.668,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T00:42:09Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "family",
+            "id": 5850471,
+            "datetime_utc": "2023-12-24T11:30:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Le Theatre Des Arts at Paris Las Vegas",
+                "postal_code": "89109",
+                "name": "Le Theatre Des Arts at Paris Las Vegas",
+                "links": [],
+                "timezone": "America\/Los_Angeles",
+                "url": "https:\/\/seatgeek.com\/venues\/le-theatre-des-arts-at-paris-las-vegas-2\/tickets",
+                "score": 0.49,
+                "location": {
+                    "lat": 36.11,
+                    "lon": -115.171
+                },
+                "address": "3655 Las Vegas Blvd South",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 374,
+                "city": "Las Vegas",
+                "slug": "le-theatre-des-arts-at-paris-las-vegas-2",
+                "extended_address": "Las Vegas, NV 89109",
+                "id": 1610,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater_family",
+                    "name": "Eiffel Tower Experience",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/eiffel-tower-experience-ce92de\/605657\/huge.jpg",
+                    "id": 605657,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/eiffel-tower-experience-ce92de\/605657\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 374
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3050000,
+                            "name": "family",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "family"
+                        }
+                    ],
+                    "image_attribution": "https:\/\/www.flickr.com\/photos\/30478819@N08\/33015766008\/in\/photolist-SiuqYY-2aAJ6nb-27tFEJr-TfEqvU-5aFqe6-2fRfscU-5DcTqo-aeB1dg-bwAYdx-2bPCenq-8ARy1R-bEMH74-8AVpGL-8hqR5S-VdZ7nk-jxcedC-22scg7N-9xTeGb-JpxkhQ-aZSDGK-TeZcdy-UyCnMt-KAvtd8-Zs5p3j-dAxQMP-wWQ9yZ-SVBXhi-U6EHKs-2avypie-27tFDtv-28L2Gyd-27tFTRP-266CDAq-55FPdQ-cQMWE3-cQMWJC-23gcZ9w-eUSFKb-o7da-6iS3sK-bdJx7r-4Li5MP-aFafGG-4Li66X-7JPSpe-4faxNq-bVSDK2-bVSCu4-bVSyga-bVSzfF",
+                    "url": "https:\/\/seatgeek.com\/eiffel-tower-experience-tickets",
+                    "score": 0.23,
+                    "slug": "eiffel-tower-experience",
+                    "home_venue_id": null,
+                    "short_name": "Eiffel Tower Experience",
+                    "num_upcoming_events": 374,
+                    "colors": null,
+                    "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/30478819@N08\/33015766008\/in\/photolist-SiuqYY-2aAJ6nb-27tFEJr-TfEqvU-5aFqe6-2fRfscU-5DcTqo-aeB1dg-bwAYdx-2bPCenq-8ARy1R-bEMH74-8AVpGL-8hqR5S-VdZ7nk-jxcedC-22scg7N-9xTeGb-JpxkhQ-aZSDGK-TeZcdy-UyCnMt-KAvtd8-Zs5p3j-dAxQMP-wWQ9yZ-SVBXhi-U6EHKs-2avypie-27tFDtv-28L2Gyd-27tFTRP-266CDAq-55FPdQ-cQMWE3-cQMWJC-23gcZ9w-eUSFKb-o7da-6iS3sK-bdJx7r-4Li5MP-aFafGG-4Li66X-7JPSpe-4faxNq-bVSDK2-bVSCu4-bVSyga-bVSzfF) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich) on Flickr. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T03:30:00",
+            "time_tbd": true,
+            "short_title": "Eiffel Tower Experience - Las Vegas",
+            "visible_until_utc": "2023-12-25T08:00:00",
+            "stats": {
+                "listing_count": 2,
+                "average_price": 60,
+                "lowest_price_good_deals": null,
+                "lowest_price": 55,
+                "highest_price": 64,
+                "visible_listing_count": 2,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 55,
+                "lowest_sg_base_price": 37,
+                "lowest_sg_base_price_good_deals": null,
+                "ticket_count": 12
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                },
+                {
+                    "id": 3050000,
+                    "name": "family",
+                    "parent_id": 3000000,
+                    "rank": 0,
+                    "seo_event_type": "family"
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/eiffel-tower-experience-tickets\/family\/2023-12-24-3-30-am\/5850471",
+            "score": 0.341,
+            "announce_date": "2022-10-22T00:00:00",
+            "created_at": "2022-10-22T16:01:30",
+            "date_tbd": false,
+            "title": "Eiffel Tower Experience - Las Vegas",
+            "popularity": 0.718,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T00:50:26Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "concert",
+            "id": 6316845,
+            "datetime_utc": "2023-12-24T14:00:00",
+            "venue": {
+                "state": "NC",
+                "name_v2": "DPAC - Durham Performing Arts Center",
+                "postal_code": "27701",
+                "name": "DPAC - Durham Performing Arts Center",
+                "links": [],
+                "timezone": "America\/New_York",
+                "url": "https:\/\/seatgeek.com\/venues\/dpac-durham-performing-arts-center-2\/tickets",
+                "score": 0.69,
+                "location": {
+                    "lat": 35.9931,
+                    "lon": -78.9023
+                },
+                "address": "123 Vivian St.",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 115,
+                "city": "Durham",
+                "slug": "dpac-durham-performing-arts-center-2",
+                "extended_address": "Durham, NC 27701",
+                "id": 962,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 560,
+                "capacity": 0,
+                "display_location": "Durham, NC"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Summit Church Christmas",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/summit-church-christmas-b83372\/808715\/huge.jpg",
+                    "id": 808715,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/summit-church-christmas-b83372\/808715\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 3
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": ""
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https:\/\/seatgeek.com\/summit-church-christmas-tickets",
+                    "score": 0.23,
+                    "slug": "summit-church-christmas",
+                    "home_venue_id": null,
+                    "short_name": "Summit Church Christmas",
+                    "num_upcoming_events": 3,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T09:00:00",
+            "time_tbd": false,
+            "short_title": "Summit Church Christmas",
+            "visible_until_utc": "2023-12-24T18:00:00",
+            "stats": {
+                "listing_count": 13,
+                "average_price": 18,
+                "lowest_price_good_deals": 16,
+                "lowest_price": 12,
+                "highest_price": 25,
+                "visible_listing_count": 11,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 17,
+                "lowest_sg_base_price": 3,
+                "lowest_sg_base_price_good_deals": 7,
+                "ticket_count": 33
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": ""
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/summit-church-christmas-tickets\/durham-north-carolina-dpac-durham-performing-arts-center-2-2023-12-24-9-am\/concert\/6316845",
+            "score": 0.292,
+            "announce_date": "2023-12-16T00:00:00",
+            "created_at": "2023-12-16T20:08:05",
+            "date_tbd": false,
+            "title": "Summit Church Christmas",
+            "popularity": 0.689,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "dance_performance_tour",
+            "id": 6005036,
+            "datetime_utc": "2023-12-24T15:00:00",
+            "venue": {
+                "state": "NY",
+                "name_v2": "Radio City Music Hall",
+                "postal_code": "10020",
+                "name": "Radio City Music Hall",
+                "links": [],
+                "timezone": "America\/New_York",
+                "url": "https:\/\/seatgeek.com\/venues\/radio-city-music-hall-3\/tickets",
+                "score": 0.8,
+                "location": {
+                    "lat": 40.7599,
+                    "lon": -73.9803
+                },
+                "address": "1260 6th Avenue",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 80,
+                "city": "New York",
+                "slug": "radio-city-music-hall-3",
+                "extended_address": "New York, NY 10020",
+                "id": 4348,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE_TM",
+                    "created_at": "2017-08-28T14:46:07Z",
+                    "employee_only": false
+                },
+                "metro_code": 501,
+                "capacity": 0,
+                "display_location": "New York, NY"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater_dance_performance_tour",
+                    "name": "Radio City Christmas Spectacular",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/radio-city-christmas-spectacular-c54d60\/5353\/huge.jpg",
+                    "id": 5353,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/radio-city-christmas-spectacular-c54d60\/5353\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 37
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3060000,
+                            "name": "dance_performance_tour",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "dance"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https:\/\/seatgeek.com\/radio-city-christmas-spectacular-tickets",
+                    "score": 0.54,
+                    "slug": "radio-city-christmas-spectacular",
+                    "home_venue_id": null,
+                    "short_name": "Radio City Christmas Spectacular",
+                    "num_upcoming_events": 37,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "theater_dance_performance_tour",
+                    "name": "Radio City Rockettes",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/radio-city-rockettes-157e87\/8500\/huge.jpg",
+                    "id": 8500,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/radio-city-rockettes-157e87\/8500\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 37
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3060000,
+                            "name": "dance_performance_tour",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "dance"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https:\/\/seatgeek.com\/radio-city-rockettes-tickets",
+                    "score": 0.54,
+                    "slug": "radio-city-rockettes",
+                    "home_venue_id": null,
+                    "short_name": "Radio City Rockettes",
+                    "num_upcoming_events": 37,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T10:00:00",
+            "time_tbd": false,
+            "short_title": "Christmas Spectacular Starring The Radio City Rockettes",
+            "visible_until_utc": "2023-12-24T19:00:00",
+            "stats": {
+                "listing_count": 96,
+                "average_price": 247,
+                "lowest_price_good_deals": 108,
+                "lowest_price": 108,
+                "highest_price": 292,
+                "visible_listing_count": 96,
+                "dq_bucket_counts": [
+                    13,
+                    12,
+                    25,
+                    23,
+                    20,
+                    5,
+                    0,
+                    0
+                ],
+                "median_price": 284,
+                "lowest_sg_base_price": 74,
+                "lowest_sg_base_price_good_deals": 74,
+                "ticket_count": 344
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                },
+                {
+                    "id": 3060000,
+                    "name": "dance_performance_tour",
+                    "parent_id": 3000000,
+                    "rank": 0,
+                    "seo_event_type": "dance"
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/radio-city-christmas-spectacular-tickets\/dance\/2023-12-24-10-am\/6005036",
+            "score": 0.61,
+            "announce_date": "2023-04-20T00:00:00",
+            "created_at": "2023-04-20T16:21:31",
+            "date_tbd": false,
+            "title": "Christmas Spectacular Starring The Radio City Rockettes",
+            "popularity": 0.836,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE_TM",
+                "created_at": "2017-08-28T14:46:07Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-20T16:21:31Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "concert",
+            "id": 6272835,
+            "datetime_utc": "2023-12-24T15:30:00",
+            "venue": {
+                "state": "NY",
+                "name_v2": "The Argyle Theatre at Babylon Village",
+                "postal_code": "11702",
+                "name": "The Argyle Theatre at Babylon Village",
+                "links": [],
+                "timezone": "America\/New_York",
+                "url": "https:\/\/seatgeek.com\/venues\/the-argyle-theatre-at-babylon-village-2\/tickets",
+                "score": 0.51,
+                "location": {
+                    "lat": 40.6961,
+                    "lon": -73.3237
+                },
+                "address": "34 West Main Street",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 69,
+                "city": "Babylon",
+                "slug": "the-argyle-theatre-at-babylon-village-2",
+                "extended_address": "Babylon, NY 11702",
+                "id": 467627,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 501,
+                "capacity": 0,
+                "display_location": "Babylon, NY"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Harry Connick, Jr.",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/harry-connick-jr-44ae7f\/837\/huge.jpg",
+                    "id": 837,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/harry-connick-jr-44ae7f\/837\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": ""
+                        }
+                    ],
+                    "image_attribution": "Tim Mosenfelder \/ WireImage \/ Getty Images",
+                    "url": "https:\/\/seatgeek.com\/harry-connick-jr-tickets",
+                    "score": 0.49,
+                    "slug": "harry-connick-jr",
+                    "home_venue_id": null,
+                    "short_name": "Harry Connick, Jr.",
+                    "num_upcoming_events": 7,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 468,
+                            "name": "Jazz",
+                            "slug": "jazz",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-766d00\/141\/1200x525.jpg",
+                                "1200x627": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-7ede34\/141\/1200x627.jpg",
+                                "136x136": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-4277ec\/141\/136x136.jpg",
+                                "500_700": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-74c79a\/141\/500_700.jpg",
+                                "800x320": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-676e42\/141\/800x320.jpg",
+                                "banner": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-232cda\/141\/banner.jpg",
+                                "block": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-7f3828\/141\/block.jpg",
+                                "criteo_130_160": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-cd8591\/141\/criteo_130_160.jpg",
+                                "criteo_170_235": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-3228f1\/141\/criteo_170_235.jpg",
+                                "criteo_205_100": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-6508af\/141\/criteo_205_100.jpg",
+                                "criteo_400_300": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-04b6c3\/141\/criteo_400_300.jpg",
+                                "fb_100x72": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-92bebf\/141\/fb_100x72.jpg",
+                                "fb_600_315": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-d75312\/141\/fb_600_315.jpg",
+                                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-1bfcdc\/141\/huge.jpg",
+                                "ipad_event_modal": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-17961f\/141\/ipad_event_modal.jpg",
+                                "ipad_header": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-05eb3f\/141\/ipad_header.jpg",
+                                "ipad_mini_explore": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-0b67fe\/141\/ipad_mini_explore.jpg",
+                                "mongo": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-280540\/141\/mongo.jpg",
+                                "square_mid": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-77b00a\/141\/square_mid.jpg",
+                                "triggit_fb_ad": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-a3ee67\/141\/triggit_fb_ad.jpg"
+                            },
+                            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/adele-1bfcdc\/141\/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-b808d2\/2351\/1200x525.jpg",
+                                "1200x627": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-f6d519\/2351\/1200x627.jpg",
+                                "136x136": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-159c25\/2351\/136x136.jpg",
+                                "500_700": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-6e659f\/2351\/500_700.jpg",
+                                "800x320": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-0810f9\/2351\/800x320.jpg",
+                                "banner": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-5270ef\/2351\/banner.jpg",
+                                "block": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-ad0220\/2351\/block.jpg",
+                                "criteo_130_160": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-e36892\/2351\/criteo_130_160.jpg",
+                                "criteo_170_235": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-7f6d9b\/2351\/criteo_170_235.jpg",
+                                "criteo_205_100": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-049f1b\/2351\/criteo_205_100.jpg",
+                                "criteo_400_300": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-7c7fa3\/2351\/criteo_400_300.jpg",
+                                "fb_100x72": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-ea37be\/2351\/fb_100x72.jpg",
+                                "fb_600_315": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-1fac50\/2351\/fb_600_315.jpg",
+                                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-596c64\/2351\/huge.jpg",
+                                "ipad_event_modal": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-2b8ef2\/2351\/ipad_event_modal.jpg",
+                                "ipad_header": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-43d9e5\/2351\/ipad_header.jpg",
+                                "ipad_mini_explore": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-4fa826\/2351\/ipad_mini_explore.jpg",
+                                "mongo": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-c7bf4b\/2351\/mongo.jpg",
+                                "square_mid": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-ed28b0\/2351\/square_mid.jpg",
+                                "triggit_fb_ad": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-490583\/2351\/triggit_fb_ad.jpg"
+                            },
+                            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/drake-596c64\/2351\/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 465,
+                            "name": "Blues",
+                            "slug": "blues",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-9d59d4\/2011\/1200x525.jpg",
+                                "1200x627": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-462be3\/2011\/1200x627.jpg",
+                                "136x136": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-0cfaf6\/2011\/136x136.jpg",
+                                "500_700": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-5b8710\/2011\/500_700.jpg",
+                                "800x320": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-4e1d1b\/2011\/800x320.jpg",
+                                "banner": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-e9496a\/2011\/banner.jpg",
+                                "block": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-1c5ead\/2011\/block.jpg",
+                                "criteo_130_160": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-d01f09\/2011\/criteo_130_160.jpg",
+                                "criteo_170_235": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-71d021\/2011\/criteo_170_235.jpg",
+                                "criteo_205_100": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-03af0a\/2011\/criteo_205_100.jpg",
+                                "criteo_400_300": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-81e2fd\/2011\/criteo_400_300.jpg",
+                                "fb_100x72": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-fd6aae\/2011\/fb_100x72.jpg",
+                                "fb_600_315": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-86cb30\/2011\/fb_600_315.jpg",
+                                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-8c0810\/2011\/huge.jpg",
+                                "ipad_event_modal": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-110658\/2011\/ipad_event_modal.jpg",
+                                "ipad_header": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-3815df\/2011\/ipad_header.jpg",
+                                "ipad_mini_explore": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-f87f21\/2011\/ipad_mini_explore.jpg",
+                                "mongo": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-d6478d\/2011\/mongo.jpg",
+                                "square_mid": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-528da2\/2011\/square_mid.jpg",
+                                "triggit_fb_ad": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-09044c\/2011\/triggit_fb_ad.jpg"
+                            },
+                            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/widespread-panic-8c0810\/2011\/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Tim Mosenfelder \/ WireImage \/ Getty Images"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T10:30:00",
+            "time_tbd": false,
+            "short_title": "Harry Connick, Jr.",
+            "visible_until_utc": "2023-12-24T19:30:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null,
+                "ticket_count": null
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": ""
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/harry-connick-jr-tickets\/babylon-new-york-the-argyle-theatre-at-babylon-village-2-2023-12-24-10-30-am\/concert\/6272835",
+            "score": 0.327,
+            "announce_date": "2023-11-10T00:00:00",
+            "created_at": "2023-11-10T12:55:45",
+            "date_tbd": false,
+            "title": "Harry Connick, Jr.",
+            "popularity": 0.705,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-11-10T13:47:15Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "dance_performance_tour",
+            "id": 6083313,
+            "datetime_utc": "2023-12-24T16:00:00",
+            "venue": {
+                "state": "DC",
+                "name_v2": "Warner Theatre - DC",
+                "postal_code": "20004",
+                "name": "Warner Theatre - DC",
+                "links": [],
+                "timezone": "America\/New_York",
+                "url": "https:\/\/seatgeek.com\/venues\/warner-theatre-dc\/tickets",
+                "score": 0.67,
+                "location": {
+                    "lat": 38.8965,
+                    "lon": -77.0296
+                },
+                "address": "513 13th Street NW",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 52,
+                "city": "Washington",
+                "slug": "warner-theatre-dc",
+                "extended_address": "Washington, DC 20004",
+                "id": 1171,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 511,
+                "capacity": 1847,
+                "display_location": "Washington, DC"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater_dance_performance_tour",
+                    "name": "The Nutcracker Ballet",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/the-nutcracker-ballet-2a448a\/386207\/huge.jpg",
+                    "id": 386207,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/the-nutcracker-ballet-2a448a\/386207\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 21
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3060000,
+                            "name": "dance_performance_tour",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "dance"
+                        }
+                    ],
+                    "image_attribution": "https:\/\/www.flickr.com\/photos\/clearlyambiguous\/165316414\/in\/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv",
+                    "url": "https:\/\/seatgeek.com\/the-nutcracker-ballet-tickets",
+                    "score": 0.49,
+                    "slug": "the-nutcracker-ballet",
+                    "home_venue_id": null,
+                    "short_name": "The Nutcracker Ballet",
+                    "num_upcoming_events": 21,
+                    "colors": null,
+                    "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/clearlyambiguous\/165316414\/in\/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich) (@clearlyambiguous - Flickr). Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                },
+                {
+                    "type": "theater_dance_performance_tour",
+                    "name": "Washington Ballet",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/washington-ballet-ad4bfa\/6895\/huge.jpg",
+                    "id": 6895,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/washington-ballet-ad4bfa\/6895\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 8
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3060000,
+                            "name": "dance_performance_tour",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "dance"
+                        }
+                    ],
+                    "image_attribution": "https:\/\/www.flickr.com\/photos\/clearlyambiguous\/165316414\/in\/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv",
+                    "url": "https:\/\/seatgeek.com\/washington-ballet-tickets",
+                    "score": 0.42,
+                    "slug": "washington-ballet",
+                    "home_venue_id": null,
+                    "short_name": "Washington Ballet",
+                    "num_upcoming_events": 8,
+                    "colors": null,
+                    "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/clearlyambiguous\/165316414\/in\/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich) (@clearlyambiguous - Flickr). Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T11:00:00",
+            "time_tbd": false,
+            "short_title": "Washington Ballet - The Nutcracker",
+            "visible_until_utc": "2023-12-24T20:00:00",
+            "stats": {
+                "listing_count": 48,
+                "average_price": 226,
+                "lowest_price_good_deals": 64,
+                "lowest_price": 64,
+                "highest_price": 327,
+                "visible_listing_count": 47,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 241,
+                "lowest_sg_base_price": 43,
+                "lowest_sg_base_price_good_deals": 43,
+                "ticket_count": 157
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                },
+                {
+                    "id": 3060000,
+                    "name": "dance_performance_tour",
+                    "parent_id": 3000000,
+                    "rank": 0,
+                    "seo_event_type": "dance"
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/the-nutcracker-ballet-tickets\/dance\/2023-12-24-11-am\/6083313",
+            "score": 0.427,
+            "announce_date": "2023-07-06T00:00:00",
+            "created_at": "2023-07-06T17:41:47",
+            "date_tbd": false,
+            "title": "Washington Ballet - The Nutcracker",
+            "popularity": 0.754,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-07-06T17:41:46Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "theater",
+            "id": 5999638,
+            "datetime_utc": "2023-12-24T16:00:00",
+            "venue": {
+                "state": "MA",
+                "name_v2": "Charles Playhouse",
+                "postal_code": "02116",
+                "name": "Charles Playhouse",
+                "links": [],
+                "timezone": "America\/New_York",
+                "url": "https:\/\/seatgeek.com\/venues\/charles-playhouse\/tickets",
+                "score": 0.65,
+                "location": {
+                    "lat": 42.3503,
+                    "lon": -71.066
+                },
+                "address": "74 Warrenton Street",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 457,
+                "city": "Boston",
+                "slug": "charles-playhouse",
+                "extended_address": "Boston, MA 02116",
+                "id": 3188,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 506,
+                "capacity": 0,
+                "display_location": "Boston, MA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "Blue Man Group",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/blue-man-group-a0a948\/5194\/huge.jpg",
+                    "id": 5194,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/blue-man-group-a0a948\/5194\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 2333
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        }
+                    ],
+                    "image_attribution": "Suzanne Cordeiro \/ Corbis Entertainment \/ Getty Images",
+                    "url": "https:\/\/seatgeek.com\/blue-man-group-tickets",
+                    "score": 0.39,
+                    "slug": "blue-man-group",
+                    "home_venue_id": null,
+                    "short_name": "Blue Man Group",
+                    "num_upcoming_events": 2333,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Suzanne Cordeiro \/ Corbis Entertainment \/ Getty Images"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T11:00:00",
+            "time_tbd": false,
+            "short_title": "Blue Man Group - Boston",
+            "visible_until_utc": "2023-12-24T20:00:00",
+            "stats": {
+                "listing_count": 58,
+                "average_price": 184,
+                "lowest_price_good_deals": 103,
+                "lowest_price": 103,
+                "highest_price": 299,
+                "visible_listing_count": 51,
+                "dq_bucket_counts": [
+                    3,
+                    18,
+                    28,
+                    8,
+                    7,
+                    5,
+                    4,
+                    0
+                ],
+                "median_price": 183,
+                "lowest_sg_base_price": 76,
+                "lowest_sg_base_price_good_deals": 76,
+                "ticket_count": 287
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/blue-man-group-tickets\/theater\/2023-12-24-11-am\/5999638",
+            "score": 0.448,
+            "announce_date": "2022-11-02T00:00:00",
+            "created_at": "2023-04-16T15:08:28",
+            "date_tbd": false,
+            "title": "Blue Man Group - Boston",
+            "popularity": 0.761,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T01:17:35Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "classical_orchestral_instrumental",
+            "id": 6203220,
+            "datetime_utc": "2023-12-24T16:00:00",
+            "venue": {
+                "state": "MA",
+                "name_v2": "Boston Symphony Hall",
+                "postal_code": "02115",
+                "name": "Boston Symphony Hall",
+                "links": [],
+                "timezone": "America\/New_York",
+                "url": "https:\/\/seatgeek.com\/venues\/boston-symphony-hall\/tickets",
+                "score": 0.57,
+                "location": {
+                    "lat": 42.3429,
+                    "lon": -71.0857
+                },
+                "address": "301 Massachusetts Avenue",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 53,
+                "city": "Boston",
+                "slug": "boston-symphony-hall",
+                "extended_address": "Boston, MA 02115",
+                "id": 584,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 506,
+                "capacity": 2625,
+                "display_location": "Boston, MA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater_classical_orchestral_instrumental",
+                    "name": "Boston Symphony Orchestra",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/boston-symphony-orchestra-b71719\/5370\/huge.jpg",
+                    "id": 5370,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/boston-symphony-orchestra-b71719\/5370\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 48
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3010000,
+                            "name": "classical",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "classical"
+                        },
+                        {
+                            "id": 3010300,
+                            "name": "classical_orchestral_instrumental",
+                            "parent_id": 3010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "orchestral"
+                        }
+                    ],
+                    "image_attribution": "Hiroyuki Ito \/ Hulton Archive \/ Getty Images",
+                    "url": "https:\/\/seatgeek.com\/boston-symphony-orchestra-tickets",
+                    "score": 0.41,
+                    "slug": "boston-symphony-orchestra",
+                    "home_venue_id": null,
+                    "short_name": "Boston Symphony Orchestra",
+                    "num_upcoming_events": 48,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Hiroyuki Ito \/ Hulton Archive \/ Getty Images"
+                },
+                {
+                    "type": "theater_classical_orchestral_instrumental",
+                    "name": "Holiday Pops",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/holiday-pops-dcc182\/6910\/huge.jpg",
+                    "id": 6910,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/holiday-pops-dcc182\/6910\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 2
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3010000,
+                            "name": "classical",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "classical"
+                        },
+                        {
+                            "id": 3010300,
+                            "name": "classical_orchestral_instrumental",
+                            "parent_id": 3010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "orchestral"
+                        }
+                    ],
+                    "image_attribution": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich",
+                    "url": "https:\/\/seatgeek.com\/holiday-pops-tickets",
+                    "score": 0.43,
+                    "slug": "holiday-pops",
+                    "home_venue_id": null,
+                    "short_name": "Holiday Pops",
+                    "num_upcoming_events": 2,
+                    "colors": null,
+                    "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "This image is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich). Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T11:00:00",
+            "time_tbd": false,
+            "short_title": "Boston Symphony Orchestra Holiday Pops - Boston",
+            "visible_until_utc": "2023-12-24T20:00:00",
+            "stats": {
+                "listing_count": 2,
+                "average_price": 62,
+                "lowest_price_good_deals": 59,
+                "lowest_price": 59,
+                "highest_price": 65,
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    1,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 59,
+                "lowest_sg_base_price": 40,
+                "lowest_sg_base_price_good_deals": 40,
+                "ticket_count": 4
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                },
+                {
+                    "id": 3010000,
+                    "name": "classical",
+                    "parent_id": 3000000,
+                    "rank": 0,
+                    "seo_event_type": "classical"
+                },
+                {
+                    "id": 3010300,
+                    "name": "classical_orchestral_instrumental",
+                    "parent_id": 3010000,
+                    "rank": 0,
+                    "seo_event_type": "orchestral"
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/boston-symphony-orchestra-tickets\/orchestral\/2023-12-24-11-am\/6203220",
+            "score": 0.359,
+            "announce_date": "2023-09-27T00:00:00",
+            "created_at": "2023-09-27T16:54:58",
+            "date_tbd": false,
+            "title": "Boston Symphony Orchestra Holiday Pops - Boston",
+            "popularity": 0.727,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "dance_performance_tour",
+            "id": 6034203,
+            "datetime_utc": "2023-12-24T16:00:00",
+            "venue": {
+                "state": "MA",
+                "name_v2": "Citizens Bank Opera House",
+                "postal_code": "02111",
+                "name": "Citizens Bank Opera House",
+                "links": [],
+                "timezone": "America\/New_York",
+                "url": "https:\/\/seatgeek.com\/venues\/citizens-bank-opera-house\/tickets",
+                "score": 0.71,
+                "location": {
+                    "lat": 42.35,
+                    "lon": -71.06
+                },
+                "address": "539 Washington Street",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 147,
+                "city": "Boston",
+                "slug": "citizens-bank-opera-house",
+                "extended_address": "Boston, MA 02111",
+                "id": 2501,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 506,
+                "capacity": 2677,
+                "display_location": "Boston, MA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater_dance_performance_tour",
+                    "name": "Boston Ballet",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/boston-ballet-662057\/6688\/huge.jpg",
+                    "id": 6688,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/boston-ballet-662057\/6688\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 52
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3060000,
+                            "name": "dance_performance_tour",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "dance"
+                        }
+                    ],
+                    "image_attribution": "https:\/\/www.flickr.com\/photos\/11250735@N07\/15111685837\/in\/photolist-p2nkHx-847P6t-boNAiR-9KCfXG-dbjs4z-7HzQsD-4Md8kN-b6STdt-ninHG9-nikuDk-RZXbto-ch688w-ezFFCq-r7hNrn-jz5Qqd-iYkyXZ-rj39eA-RDVNt1-bKEWmx-dn5ABJ-8qEfRX-dJrhZj-7MCbJS-dn5zqn-jXEwD8-6RMjnB-dn5AJ1-93HiNR-drRkAA-kEeX8K-ke12Te-4p9xKh-ezSWFt-dJrhvU-9bpwUG-kWAxDv-9UyWFU-dn5ymg-bWbg1i-ii6s7e-bGF8ZH-b6STUz-95Q6tJ-RJt1NA-bG7YJB-CGsEb5-b6SSwx-ezW69Y-9tQMVg-9KzrBz",
+                    "url": "https:\/\/seatgeek.com\/boston-ballet-tickets",
+                    "score": 0.45,
+                    "slug": "boston-ballet",
+                    "home_venue_id": null,
+                    "short_name": "Boston Ballet",
+                    "num_upcoming_events": 52,
+                    "colors": null,
+                    "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/11250735@N07\/15111685837\/in\/photolist-p2nkHx-847P6t-boNAiR-9KCfXG-dbjs4z-7HzQsD-4Md8kN-b6STdt-ninHG9-nikuDk-RZXbto-ch688w-ezFFCq-r7hNrn-jz5Qqd-iYkyXZ-rj39eA-RDVNt1-bKEWmx-dn5ABJ-8qEfRX-dJrhZj-7MCbJS-dn5zqn-jXEwD8-6RMjnB-dn5AJ1-93HiNR-drRkAA-kEeX8K-ke12Te-4p9xKh-ezSWFt-dJrhvU-9bpwUG-kWAxDv-9UyWFU-dn5ymg-bWbg1i-ii6s7e-bGF8ZH-b6STUz-95Q6tJ-RJt1NA-bG7YJB-CGsEb5-b6SSwx-ezW69Y-9tQMVg-9KzrBz) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/) on Flickr. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                },
+                {
+                    "type": "theater_dance_performance_tour",
+                    "name": "The Nutcracker",
+                    "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/the-nutcracker-ae05a2\/7746\/huge.jpg",
+                    "id": 7746,
+                    "images": {
+                        "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/the-nutcracker-ae05a2\/7746\/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 81
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3060000,
+                            "name": "dance_performance_tour",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "dance"
+                        }
+                    ],
+                    "image_attribution": "https:\/\/www.flickr.com\/photos\/clearlyambiguous\/165316414\/in\/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv",
+                    "url": "https:\/\/seatgeek.com\/the-nutcracker-tickets",
+                    "score": 0.43,
+                    "slug": "the-nutcracker",
+                    "home_venue_id": null,
+                    "short_name": "The Nutcracker",
+                    "num_upcoming_events": 81,
+                    "colors": null,
+                    "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/clearlyambiguous\/165316414\/in\/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/?ref=ccsearch&atype=rich) (@clearlyambiguous - Flickr). Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-24T11:00:00",
+            "time_tbd": false,
+            "short_title": "Boston Ballet - The Nutcracker",
+            "visible_until_utc": "2023-12-24T20:00:00",
+            "stats": {
+                "listing_count": 3,
+                "average_price": 128,
+                "lowest_price_good_deals": 124,
+                "lowest_price": 124,
+                "highest_price": 158,
+                "visible_listing_count": 3,
+                "dq_bucket_counts": [
+                    0,
+                    2,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "median_price": 128,
+                "lowest_sg_base_price": 89,
+                "lowest_sg_base_price_good_deals": 89,
+                "ticket_count": 4
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                },
+                {
+                    "id": 3060000,
+                    "name": "dance_performance_tour",
+                    "parent_id": 3000000,
+                    "rank": 0,
+                    "seo_event_type": "dance"
+                }
+            ],
+            "url": "https:\/\/seatgeek.com\/boston-ballet-tickets\/dance\/2023-12-24-11-am\/6034203",
+            "score": 0.51,
+            "announce_date": "2023-05-20T00:00:00",
+            "created_at": "2023-05-20T16:29:22",
+            "date_tbd": false,
+            "title": "Boston Ballet - The Nutcracker",
+            "popularity": 0.795,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-05-20T16:29:22Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        }
+    ],
+    "meta": {
+        "total": 105043,
+        "took": 9,
+        "page": 1,
+        "per_page": 10,
+        "geolocation": null
+    }
+}

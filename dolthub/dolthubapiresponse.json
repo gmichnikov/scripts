@@ -1,0 +1,238 @@
+{
+    "query_execution_status": "Success",
+    "query_execution_message": "",
+    "repository_owner": "gmichnikov",
+    "repository_name": "sports-schedules",
+    "commit_ref": "main",
+    "sql_query": "SELECT league, `date`, day, `time`, home_team, road_team, location \nFROM `combined-schedule`\nWHERE home_state IN (\"NY\", \"NJ\")\nAND `date` >= CURDATE() AND `date` <= DATE_ADD(CURDATE(), INTERVAL 7 DAY)\nORDER BY `date`, `time` ASC\n",
+    "schema": [
+        {
+            "columnName": "league",
+            "columnType": "varchar(16383)"
+        },
+        {
+            "columnName": "date",
+            "columnType": "date"
+        },
+        {
+            "columnName": "day",
+            "columnType": "varchar(16383)"
+        },
+        {
+            "columnName": "time",
+            "columnType": "varchar(16383)"
+        },
+        {
+            "columnName": "home_team",
+            "columnType": "varchar(16383)"
+        },
+        {
+            "columnName": "road_team",
+            "columnType": "varchar(16383)"
+        },
+        {
+            "columnName": "location",
+            "columnType": "varchar(16383)"
+        }
+    ],
+    "rows": [
+        {
+            "league": "NBA",
+            "date": "2023-12-22",
+            "day": "Friday",
+            "time": null,
+            "home_team": "Brooklyn Nets",
+            "road_team": "Denver Nuggets",
+            "location": "Barclays Center"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-22",
+            "day": "Friday",
+            "time": null,
+            "home_team": "New York Rangers",
+            "road_team": "Edmonton Oilers",
+            "location": "Madison Square Garden (IV)"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-22",
+            "day": "Friday",
+            "time": "13:00:00",
+            "home_team": "New Jersey Institute of Technology",
+            "road_team": "Medgar Evers",
+            "location": "Joel & Diane Bloom Wellness and Events Center (WEC)"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-22",
+            "day": "Friday",
+            "time": "13:00:00",
+            "home_team": "Saint Peter's University",
+            "road_team": "Kean University",
+            "location": "The Victor R. Yanitelli, S.J. Recreational Life Center"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-22",
+            "day": "Friday",
+            "time": "14:00:00",
+            "home_team": "Wagner College",
+            "road_team": "Gwynedd Mercy",
+            "location": "Spiro Sports Center"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-22",
+            "day": "Friday",
+            "time": "1:00 PM",
+            "home_team": "Princeton University",
+            "road_team": "Delaware Valley",
+            "location": "Princeton, N.J. (Jadwin Gymnasium)"
+        },
+        {
+            "league": "NBA",
+            "date": "2023-12-23",
+            "day": "Saturday",
+            "time": null,
+            "home_team": "Brooklyn Nets",
+            "road_team": "Detroit Pistons",
+            "location": "Barclays Center"
+        },
+        {
+            "league": "NBA",
+            "date": "2023-12-23",
+            "day": "Saturday",
+            "time": null,
+            "home_team": "New York Knicks",
+            "road_team": "Milwaukee Bucks",
+            "location": "Madison Square Garden (IV)"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-23",
+            "day": "Saturday",
+            "time": null,
+            "home_team": "New Jersey Devils",
+            "road_team": "Detroit Red Wings",
+            "location": "Prudential Center"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-23",
+            "day": "Saturday",
+            "time": null,
+            "home_team": "New York Rangers",
+            "road_team": "Buffalo Sabres",
+            "location": "Madison Square Garden (IV)"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-23",
+            "day": "Saturday",
+            "time": "12:00:00",
+            "home_team": "Rutgers University",
+            "road_team": "Mississippi State",
+            "location": "Prudential Center"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-23",
+            "day": "Saturday",
+            "time": "13:00:00",
+            "home_team": "Rider University",
+            "road_team": "Penn",
+            "location": "Lawrenceville, NJ"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-23",
+            "day": "Saturday",
+            "time": "13:00:00",
+            "home_team": "Rider",
+            "road_team": "University of Pennsylvania",
+            "location": "Lawrenceville, N.J."
+        },
+        {
+            "league": "NFL",
+            "date": "2023-12-24",
+            "day": "Sunday",
+            "time": "1:00PM",
+            "home_team": "New York Jets",
+            "road_team": "Washington Commanders",
+            "location": null
+        },
+        {
+            "league": "NBA",
+            "date": "2023-12-25",
+            "day": "Monday",
+            "time": null,
+            "home_team": "New York Knicks",
+            "road_team": "Milwaukee Bucks",
+            "location": "Madison Square Garden (IV)"
+        },
+        {
+            "league": "NBA",
+            "date": "2023-12-27",
+            "day": "Wednesday",
+            "time": null,
+            "home_team": "Brooklyn Nets",
+            "road_team": "Milwaukee Bucks",
+            "location": "Barclays Center"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-27",
+            "day": "Wednesday",
+            "time": null,
+            "home_team": "Buffalo Sabres",
+            "road_team": "Boston Bruins",
+            "location": "KeyBank Center"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-27",
+            "day": "Wednesday",
+            "time": null,
+            "home_team": "New Jersey Devils",
+            "road_team": "Columbus Blue Jackets",
+            "location": "Prudential Center"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-27",
+            "day": "Wednesday",
+            "time": null,
+            "home_team": "New York Islanders",
+            "road_team": "Pittsburgh Penguins",
+            "location": "UBS Arena"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-27",
+            "day": "Wednesday",
+            "time": null,
+            "home_team": "New York Rangers",
+            "road_team": "Washington Capitals",
+            "location": "Madison Square Garden (IV)"
+        },
+        {
+            "league": "ncaab",
+            "date": "2023-12-28",
+            "day": "Thursday",
+            "time": "19:00:00",
+            "home_team": "LIU",
+            "road_team": "UAlbany",
+            "location": "Barclays Center"
+        },
+        {
+            "league": "NHL",
+            "date": "2023-12-29",
+            "day": "Friday",
+            "time": null,
+            "home_team": "New York Islanders",
+            "road_team": "Washington Capitals",
+            "location": "UBS Arena"
+        }
+    ]
+}

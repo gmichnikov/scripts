@@ -1,0 +1,3662 @@
+{
+    "performers": [
+        {
+            "type": "nfl",
+            "name": "Super Bowl",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/super-bowl-b0a10c\/11591\/huge.jpg",
+            "id": 11591,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/super-bowl-b0a10c\/11591\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 1
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2023",
+            "url": "https:\/\/seatgeek.com\/super-bowl-tickets",
+            "score": 0.94,
+            "slug": "super-bowl",
+            "home_venue_id": null,
+            "short_name": "Super Bowl",
+            "num_upcoming_events": 1,
+            "colors": null,
+            "image_license": "SeatGeek - 2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Dallas Cowboys",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/dallas-cowboys-7397bc\/2066\/huge.jpg",
+            "id": 2066,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/dallas-cowboys-7397bc\/2066\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC East",
+                    "display_name": "NFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 9
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Client submitted",
+            "url": "https:\/\/seatgeek.com\/dallas-cowboys-tickets",
+            "score": 0.83,
+            "slug": "dallas-cowboys",
+            "home_venue_id": 4965,
+            "short_name": "Cowboys",
+            "num_upcoming_events": 9,
+            "colors": {
+                "all": [
+                    "#002B5C",
+                    "#8E8C8A",
+                    "#002B5C"
+                ],
+                "iconic": "#002B5C",
+                "primary": [
+                    "#002B5C",
+                    "#8E8C8A"
+                ]
+            },
+            "image_license": "Client submitted",
+            "popularity": 0,
+            "location": {
+                "lat": 32.7473,
+                "lon": -97.0945
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Philadelphia Eagles",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/philadelphia-eagles-9fc4ca\/2062\/huge.jpg",
+            "id": 2062,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/philadelphia-eagles-9fc4ca\/2062\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC East",
+                    "display_name": "NFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/philadelphia-eagles-tickets",
+            "score": 0.82,
+            "slug": "philadelphia-eagles",
+            "home_venue_id": 330,
+            "short_name": "Eagles",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#004C54",
+                    "#A5ACAF",
+                    "#004C54"
+                ],
+                "iconic": "#004C54",
+                "primary": [
+                    "#004C54",
+                    "#A5ACAF"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 39.9008,
+                "lon": -75.1675
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "San Francisco 49ers",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/san-francisco-49ers-837bec\/2076\/huge.jpg",
+            "id": 2076,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/san-francisco-49ers-837bec\/2076\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC West",
+                    "display_name": "NFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "provided by SF 49ers",
+            "url": "https:\/\/seatgeek.com\/san-francisco-49ers-tickets",
+            "score": 0.81,
+            "slug": "san-francisco-49ers",
+            "home_venue_id": 58670,
+            "short_name": "49ers",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#AA0000",
+                    "#B3995D",
+                    "#AA0000"
+                ],
+                "iconic": "#AA0000",
+                "primary": [
+                    "#AA0000",
+                    "#B3995D"
+                ]
+            },
+            "image_license": "provided by SF 49ers",
+            "popularity": 0,
+            "location": {
+                "lat": 37.4023,
+                "lon": -121.969
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "New York Giants",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-york-giants-8fe855\/2079\/huge.jpg",
+            "id": 2079,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-york-giants-8fe855\/2079\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC East",
+                    "display_name": "NFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 3
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/new-york-giants-tickets",
+            "score": 0.8,
+            "slug": "new-york-giants",
+            "home_venue_id": 1587,
+            "short_name": "Giants",
+            "num_upcoming_events": 3,
+            "colors": {
+                "all": [
+                    "#0B2265",
+                    "#A71930",
+                    "#0B2265"
+                ],
+                "iconic": "#0B2265",
+                "primary": [
+                    "#0B2265",
+                    "#A71930"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 40.8142,
+                "lon": -74.0737
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Kansas City Chiefs",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/kansas-city-chiefs-6b5772\/2060\/huge.jpg",
+            "id": 2060,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/kansas-city-chiefs-6b5772\/2060\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC West",
+                    "display_name": "AFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/kansas-city-chiefs-tickets",
+            "score": 0.8,
+            "slug": "kansas-city-chiefs",
+            "home_venue_id": 1128,
+            "short_name": "Chiefs",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#E31837",
+                    "#FFB81C",
+                    "#E31837"
+                ],
+                "iconic": "#E31837",
+                "primary": [
+                    "#E31837",
+                    "#FFB81C"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 39.0489,
+                "lon": -94.4839
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Washington Commanders",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/washington-commanders-94289d\/2078\/huge.jpg",
+            "id": 2078,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/washington-commanders-94289d\/2078\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC East",
+                    "display_name": "NFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 4
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "null",
+            "url": "https:\/\/seatgeek.com\/washington-commanders-tickets",
+            "score": 0.8,
+            "slug": "washington-commanders",
+            "home_venue_id": 35,
+            "short_name": "Commanders",
+            "num_upcoming_events": 4,
+            "colors": {
+                "all": [
+                    "#5A1414",
+                    "#FFB612",
+                    "#5A1414"
+                ],
+                "iconic": "#5A1414",
+                "primary": [
+                    "#5A1414",
+                    "#FFB612"
+                ]
+            },
+            "image_license": "null",
+            "popularity": 0,
+            "location": {
+                "lat": 38.9076,
+                "lon": -76.8645
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Baltimore Ravens",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/baltimore-ravens-d553a0\/2061\/huge.jpg",
+            "id": 2061,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/baltimore-ravens-d553a0\/2061\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC North",
+                    "display_name": "AFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Client Provided",
+            "url": "https:\/\/seatgeek.com\/baltimore-ravens-tickets",
+            "score": 0.79,
+            "slug": "baltimore-ravens",
+            "home_venue_id": 1121,
+            "short_name": "Ravens",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#181818",
+                    "#24135F",
+                    "#24135F"
+                ],
+                "iconic": "#24135F",
+                "primary": [
+                    "#181818",
+                    "#24135F"
+                ]
+            },
+            "image_license": "Client Provided",
+            "popularity": 0,
+            "location": {
+                "lat": 39.2779,
+                "lon": -76.6229
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Detroit Lions",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/detroit-lions-7b9a3d\/2068\/huge.jpg",
+            "id": 2068,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/detroit-lions-7b9a3d\/2068\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC North",
+                    "display_name": "NFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/detroit-lions-tickets",
+            "score": 0.79,
+            "slug": "detroit-lions",
+            "home_venue_id": 346,
+            "short_name": "Lions",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#0076B6",
+                    "#B0B7BC",
+                    "#0076B6"
+                ],
+                "iconic": "#0076B6",
+                "primary": [
+                    "#0076B6",
+                    "#B0B7BC"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 42.34,
+                "lon": -83.0459
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Los Angeles Rams",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/los-angeles-rams-b3a045\/2080\/huge.jpg",
+            "id": 2080,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/los-angeles-rams-b3a045\/2080\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC West",
+                    "display_name": "NFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 5
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "VFS Rendering - SG owned",
+            "url": "https:\/\/seatgeek.com\/los-angeles-rams-tickets",
+            "score": 0.79,
+            "slug": "los-angeles-rams",
+            "home_venue_id": 487036,
+            "short_name": "Rams",
+            "num_upcoming_events": 5,
+            "colors": {
+                "all": [
+                    "#003594",
+                    "#FFD100",
+                    "#003594"
+                ],
+                "iconic": "#003594",
+                "primary": [
+                    "#003594",
+                    "#FFD100"
+                ]
+            },
+            "image_license": "VFS Rendering - SG owned",
+            "popularity": 0,
+            "location": {
+                "lat": 33.9535,
+                "lon": -118.339
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Las Vegas Raiders",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/las-vegas-raiders-3ea9b6\/2087\/huge.jpg",
+            "id": 2087,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/las-vegas-raiders-3ea9b6\/2087\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC West",
+                    "display_name": "AFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/las-vegas-raiders-tickets",
+            "score": 0.78,
+            "slug": "las-vegas-raiders",
+            "home_venue_id": 514837,
+            "short_name": "Raiders",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#181818",
+                    "#A5ACAF",
+                    "#181818"
+                ],
+                "iconic": "#181818",
+                "primary": [
+                    "#181818",
+                    "#A5ACAF"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 36.0909,
+                "lon": -115.183
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "UIL High School Football State Championships",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/uil-high-school-football-state-championships-d398ef\/782082\/huge.jpg",
+            "id": 782082,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/uil-high-school-football-state-championships-d398ef\/782082\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "client provided",
+            "url": "https:\/\/seatgeek.com\/uil-high-school-football-state-championships-tickets",
+            "score": 0.78,
+            "slug": "uil-high-school-football-state-championships",
+            "home_venue_id": null,
+            "short_name": "UIL High School Football State Championships",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": "client provided",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "New York Jets",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-york-jets-f40457\/2070\/huge.jpg",
+            "id": 2070,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-york-jets-f40457\/2070\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC East",
+                    "display_name": "AFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 3
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Provided by Jets",
+            "url": "https:\/\/seatgeek.com\/new-york-jets-tickets",
+            "score": 0.78,
+            "slug": "new-york-jets",
+            "home_venue_id": 1587,
+            "short_name": "Jets",
+            "num_upcoming_events": 3,
+            "colors": {
+                "all": [
+                    "#115740",
+                    "#ffffff",
+                    "#115740"
+                ],
+                "iconic": "#115740",
+                "primary": [
+                    "#115740",
+                    "#ffffff"
+                ]
+            },
+            "image_license": "Provided by Jets",
+            "popularity": 0,
+            "location": {
+                "lat": 40.8142,
+                "lon": -74.0737
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "New Orleans Saints",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-orleans-saints-1a7f91\/2069\/huge.jpg",
+            "id": 2069,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-orleans-saints-1a7f91\/2069\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC South",
+                    "display_name": "NFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 5
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Client Provided - 2022",
+            "url": "https:\/\/seatgeek.com\/new-orleans-saints-tickets",
+            "score": 0.78,
+            "slug": "new-orleans-saints",
+            "home_venue_id": 128,
+            "short_name": "Saints",
+            "num_upcoming_events": 5,
+            "colors": {
+                "all": [
+                    "#000000",
+                    "#D3BC8D",
+                    "#000000"
+                ],
+                "iconic": "#000000",
+                "primary": [
+                    "#000000",
+                    "#D3BC8D"
+                ]
+            },
+            "image_license": "Client Provided - 2022",
+            "popularity": 0,
+            "location": {
+                "lat": 29.9511,
+                "lon": -90.0812
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Los Angeles Chargers",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/los-angeles-chargers-1b3e5d\/2086\/huge.jpg",
+            "id": 2086,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/los-angeles-chargers-1b3e5d\/2086\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC West",
+                    "display_name": "AFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 2
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "VFS Image - Section vip 112",
+            "url": "https:\/\/seatgeek.com\/los-angeles-chargers-tickets",
+            "score": 0.78,
+            "slug": "los-angeles-chargers",
+            "home_venue_id": 487036,
+            "short_name": "Chargers",
+            "num_upcoming_events": 2,
+            "colors": {
+                "all": [
+                    "#007BC7",
+                    "#FFC20E",
+                    "#007BC7"
+                ],
+                "iconic": "#007BC7",
+                "primary": [
+                    "#007BC7",
+                    "#FFC20E"
+                ]
+            },
+            "image_license": "Owned by SG",
+            "popularity": 0,
+            "location": {
+                "lat": 33.9535,
+                "lon": -118.339
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Pittsburgh Steelers",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/pittsburgh-steelers-d2a42e\/2056\/huge.jpg",
+            "id": 2056,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/pittsburgh-steelers-d2a42e\/2056\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC North",
+                    "display_name": "AFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 5
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/pittsburgh-steelers-tickets",
+            "score": 0.78,
+            "slug": "pittsburgh-steelers",
+            "home_venue_id": 1119,
+            "short_name": "Steelers",
+            "num_upcoming_events": 5,
+            "colors": {
+                "all": [
+                    "#181818",
+                    "#FFB612",
+                    "#181818"
+                ],
+                "iconic": "#181818",
+                "primary": [
+                    "#181818",
+                    "#FFB612"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 40.4468,
+                "lon": -80.0158
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Cincinnati Bengals",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/cincinnati-bengals-d33a72\/2075\/huge.jpg",
+            "id": 2075,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/cincinnati-bengals-d33a72\/2075\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC North",
+                    "display_name": "AFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 5
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/cincinnati-bengals-tickets",
+            "score": 0.78,
+            "slug": "cincinnati-bengals",
+            "home_venue_id": 1124,
+            "short_name": "Bengals",
+            "num_upcoming_events": 5,
+            "colors": {
+                "all": [
+                    "#181818",
+                    "#FB4F14",
+                    "#181818"
+                ],
+                "iconic": "#FB4F14",
+                "primary": [
+                    "#181818",
+                    "#FB4F14"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 39.0961,
+                "lon": -84.5177
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Green Bay Packers",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/green-bay-packers-0dfd44\/2083\/huge.jpg",
+            "id": 2083,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/green-bay-packers-0dfd44\/2083\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC North",
+                    "display_name": "NFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/green-bay-packers-tickets",
+            "score": 0.77,
+            "slug": "green-bay-packers",
+            "home_venue_id": 1125,
+            "short_name": "Packers",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#203731",
+                    "#FFB612",
+                    "#203731"
+                ],
+                "iconic": "#203731",
+                "primary": [
+                    "#203731",
+                    "#FFB612"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 44.5013,
+                "lon": -88.0622
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Chicago Bears",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/chicago-bears-1f01c3\/2082\/huge.jpg",
+            "id": 2082,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/chicago-bears-1f01c3\/2082\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC North",
+                    "display_name": "NFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 3
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/chicago-bears-tickets",
+            "score": 0.77,
+            "slug": "chicago-bears",
+            "home_venue_id": 31,
+            "short_name": "Bears",
+            "num_upcoming_events": 3,
+            "colors": {
+                "all": [
+                    "#0B162A",
+                    "#C83803",
+                    "#0B162A"
+                ],
+                "iconic": "#0B162A",
+                "primary": [
+                    "#0B162A",
+                    "#C83803"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 41.8623,
+                "lon": -87.6159
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Seattle Seahawks",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/seattle-seahawks-0cdfbd\/2081\/huge.jpg",
+            "id": 2081,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/seattle-seahawks-0cdfbd\/2081\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC West",
+                    "display_name": "NFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 7
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/seattle-seahawks-tickets",
+            "score": 0.77,
+            "slug": "seattle-seahawks",
+            "home_venue_id": 339,
+            "short_name": "Seahawks",
+            "num_upcoming_events": 7,
+            "colors": {
+                "all": [
+                    "#002244",
+                    "#69BE28",
+                    "#002244"
+                ],
+                "iconic": "#002244",
+                "primary": [
+                    "#002244",
+                    "#69BE28"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 47.5948,
+                "lon": -122.332
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "New England Patriots",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-england-patriots-4ab0de\/2085\/huge.jpg",
+            "id": 2085,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/new-england-patriots-4ab0de\/2085\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC East",
+                    "display_name": "AFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 3
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/new-england-patriots-tickets",
+            "score": 0.77,
+            "slug": "new-england-patriots",
+            "home_venue_id": 33,
+            "short_name": "Patriots",
+            "num_upcoming_events": 3,
+            "colors": {
+                "all": [
+                    "#002244",
+                    "#C60C30",
+                    "#002244"
+                ],
+                "iconic": "#002244",
+                "primary": [
+                    "#002244",
+                    "#C60C30"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 42.0906,
+                "lon": -71.2674
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Minnesota Vikings",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/minnesota-vikings-ea2238\/2072\/huge.jpg",
+            "id": 2072,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/minnesota-vikings-ea2238\/2072\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC North",
+                    "display_name": "NFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "https:\/\/commons.wikimedia.org\/wiki\/Category:U.S._Bank_Stadium#\/media\/File:US_Bank_Stadium_interior_-_Minnesota_Vikings_orientation.jpg",
+            "url": "https:\/\/seatgeek.com\/minnesota-vikings-tickets",
+            "score": 0.77,
+            "slug": "minnesota-vikings",
+            "home_venue_id": 218451,
+            "short_name": "Vikings",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#4F2683",
+                    "#FFC62F",
+                    "#4F2683"
+                ],
+                "iconic": "#4F2683",
+                "primary": [
+                    "#4F2683",
+                    "#FFC62F"
+                ]
+            },
+            "image_license": "https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/",
+            "popularity": 0,
+            "location": {
+                "lat": 44.9751,
+                "lon": -93.2582
+            },
+            "image_rights_message": "[This image](https:\/\/commons.wikimedia.org\/wiki\/Category:U.S._Bank_Stadium#\/media\/File:US_Bank_Stadium_interior_-_Minnesota_Vikings_orientation.jpg) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by-sa\/4.0\/) on Wikimedia and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions.",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Buffalo Bills",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/buffalo-bills-6fa1f6\/2084\/huge.jpg",
+            "id": 2084,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/buffalo-bills-6fa1f6\/2084\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC East",
+                    "display_name": "AFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 5
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Seatgeek VFS - 3D Model",
+            "url": "https:\/\/seatgeek.com\/buffalo-bills-tickets",
+            "score": 0.77,
+            "slug": "buffalo-bills",
+            "home_venue_id": 1135,
+            "short_name": "Bills",
+            "num_upcoming_events": 5,
+            "colors": {
+                "all": [
+                    "#00338D",
+                    "#C60C30",
+                    "#00338D"
+                ],
+                "iconic": "#00338D",
+                "primary": [
+                    "#00338D",
+                    "#C60C30"
+                ]
+            },
+            "image_license": "Seatgeek VFS - 3D Model",
+            "popularity": 0,
+            "location": {
+                "lat": 42.7737,
+                "lon": -78.7874
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Tampa Bay Buccaneers",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/tampa-bay-buccaneers-60679b\/2067\/huge.jpg",
+            "id": 2067,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/tampa-bay-buccaneers-60679b\/2067\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC South",
+                    "display_name": "NFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "https:\/\/www.flickr.com\/photos\/antciardiello\/15919075103\/in\/photolist-qfHqq8-rcBNBy-qV4mTX-dyhAgx-hCK7b3-hCHbxd-dyo4c3-fbdTB3-qV68RG-ghdDZc-hCLkTP-rcBP6E-dyhzzH-h2ya74-p9961X-rapXLq-q3MBgU-dyo281-qVfByr-hCK8c1-dyo4M7-dxdidD-dyo3MS-hCK7JC-dyhxhn-dxiP7f-faYDfn-rcwaMe-dyhzSv-dxiN7o-hCHeKW-p9966r-hCLp4B-hCK8jA-p96rJY-bkHQnh-dyhApT-h2yhpQ-qVhx12-dxiKPQ-dyhw92-fi7f7p-dyo2C1-h2y7qJ-p96s1Q-hCJRNp-qfUDae-dyhwJV-rapYHq-dxiLeS",
+            "url": "https:\/\/seatgeek.com\/tampa-bay-buccaneers-tickets",
+            "score": 0.77,
+            "slug": "tampa-bay-buccaneers",
+            "home_venue_id": 39,
+            "short_name": "Buccaneers",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#34302B",
+                    "#D50A0A",
+                    "#D50A0A"
+                ],
+                "iconic": "#D50A0A",
+                "primary": [
+                    "#34302B",
+                    "#D50A0A"
+                ]
+            },
+            "image_license": "https:\/\/creativecommons.org\/licenses\/by-nd\/2.0\/",
+            "popularity": 0,
+            "location": {
+                "lat": 27.9762,
+                "lon": -82.5034
+            },
+            "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/antciardiello\/15919075103\/in\/photolist-qfHqq8-rcBNBy-qV4mTX-dyhAgx-hCK7b3-hCHbxd-dyo4c3-fbdTB3-qV68RG-ghdDZc-hCLkTP-rcBP6E-dyhzzH-h2ya74-p9961X-rapXLq-q3MBgU-dyo281-qVfByr-hCK8c1-dyo4M7-dxdidD-dyo3MS-hCK7JC-dyhxhn-dxiP7f-faYDfn-rcwaMe-dyhzSv-dxiN7o-hCHeKW-p9966r-hCLp4B-hCK8jA-p96rJY-bkHQnh-dyhApT-h2yhpQ-qVhx12-dxiKPQ-dyhw92-fi7f7p-dyo2C1-h2y7qJ-p96s1Q-hCJRNp-qfUDae-dyhwJV-rapYHq-dxiLeS) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by-nd\/2.0\/) (@antciardiello - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions.",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Miami Dolphins",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/miami-dolphins-8aa897\/2058\/huge.jpg",
+            "id": 2058,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/miami-dolphins-8aa897\/2058\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC East",
+                    "display_name": "AFC East",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-east"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Seatgeek VFS - 3D Model",
+            "url": "https:\/\/seatgeek.com\/miami-dolphins-tickets",
+            "score": 0.77,
+            "slug": "miami-dolphins",
+            "home_venue_id": 29,
+            "short_name": "Dolphins",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#00838D",
+                    "#F26A24",
+                    "#00838D"
+                ],
+                "iconic": "#00838D",
+                "primary": [
+                    "#00838D",
+                    "#F26A24"
+                ]
+            },
+            "image_license": "Seatgeek VFS - 3D Model",
+            "popularity": 0,
+            "location": {
+                "lat": 25.9579,
+                "lon": -80.2388
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Cleveland Browns",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/cleveland-browns-91cc5d\/2073\/huge.jpg",
+            "id": 2073,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/cleveland-browns-91cc5d\/2073\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC North",
+                    "display_name": "AFC North",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-north"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "https:\/\/www.flickr.com\/photos\/edrost88\/15168925840\/in\/photolist-p7qHb9-qayKXi-poDqNP-pEndoZ-pnYzUw-s6zDeb-oKtErx-nykV6d-nyAzQx-ocgbsv-rRhSvb-dduNYu-oukEsJ-pgAoDM-oz8g3b-fjB735-fjmUwz-ocfSny-s8Jj2u-fnLVHs-nh6R6R-rc5Bxx-cfjzfQ-ocg5EY-rRismj-od3RWw-fnLXHS-XeYWfu-otfCCd-oZnadt-hR17QY-nyimGt-oHHCDJ-fnwHkV-hR1jKj-owiCC2-brS2er-rc5d9Z-awwA3z-nh6Wfu-brS1be-otfU5o-brS2S4-s8PivD-hR18Eo-nFGWct-qaAjak-88XKCJ-p7rZJK-oAZJrM",
+            "url": "https:\/\/seatgeek.com\/cleveland-browns-tickets",
+            "score": 0.76,
+            "slug": "cleveland-browns",
+            "home_venue_id": 1123,
+            "short_name": "Browns",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#311D00",
+                    "#FF3C00",
+                    "#311D00"
+                ],
+                "iconic": "#FF3C00",
+                "primary": [
+                    "#311D00",
+                    "#FF3C00"
+                ]
+            },
+            "image_license": "https:\/\/creativecommons.org\/licenses\/by\/2.0\/",
+            "popularity": 0,
+            "location": {
+                "lat": 41.5065,
+                "lon": -81.7
+            },
+            "image_rights_message": "[This image](https:\/\/www.flickr.com\/photos\/edrost88\/15168925840\/in\/photolist-p7qHb9-qayKXi-poDqNP-pEndoZ-pnYzUw-s6zDeb-oKtErx-nykV6d-nyAzQx-ocgbsv-rRhSvb-dduNYu-oukEsJ-pgAoDM-oz8g3b-fjB735-fjmUwz-ocfSny-s8Jj2u-fnLVHs-nh6R6R-rc5Bxx-cfjzfQ-ocg5EY-rRismj-od3RWw-fnLXHS-XeYWfu-otfCCd-oZnadt-hR17QY-nyimGt-oHHCDJ-fnwHkV-hR1jKj-owiCC2-brS2er-rc5d9Z-awwA3z-nh6Wfu-brS1be-otfU5o-brS2S4-s8PivD-hR18Eo-nFGWct-qaAjak-88XKCJ-p7rZJK-oAZJrM) is available through [Creative Commons](https:\/\/creativecommons.org\/licenses\/by\/2.0\/) (@edrost88 - Flickr) and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions.",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Pro Bowl",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/pro-bowl-40fd94\/7266\/huge.jpg",
+            "id": 7266,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/pro-bowl-40fd94\/7266\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 1
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": null,
+            "url": "https:\/\/seatgeek.com\/pro-bowl-tickets",
+            "score": 0.75,
+            "slug": "pro-bowl",
+            "home_venue_id": null,
+            "short_name": "Pro Bowl",
+            "num_upcoming_events": 1,
+            "colors": null,
+            "image_license": null,
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Gold Rush 2024",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/gold-rush-2024-fdd15f\/807919\/huge.jpg",
+            "id": 807919,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/gold-rush-2024-fdd15f\/807919\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 1
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+            "url": "https:\/\/seatgeek.com\/gold-rush-2024-tickets",
+            "score": 0.75,
+            "slug": "gold-rush-2024",
+            "home_venue_id": null,
+            "short_name": "Gold Rush 2024",
+            "num_upcoming_events": 1,
+            "colors": null,
+            "image_license": "SeatGeek - 2022 (2000 X 2000)",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Denver Broncos",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/denver-broncos-081ce4\/2074\/huge.jpg",
+            "id": 2074,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/denver-broncos-081ce4\/2074\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC West",
+                    "display_name": "AFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "VFS image owned by SG",
+            "url": "https:\/\/seatgeek.com\/denver-broncos-tickets",
+            "score": 0.75,
+            "slug": "denver-broncos",
+            "home_venue_id": 1131,
+            "short_name": "Broncos",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#002244",
+                    "#FB4F14",
+                    "#002244"
+                ],
+                "iconic": "#002244",
+                "primary": [
+                    "#002244",
+                    "#FB4F14"
+                ]
+            },
+            "image_license": "VFS image owned by SG",
+            "popularity": 0,
+            "location": {
+                "lat": 39.7439,
+                "lon": -105.02
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Tennessee Titans",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/tennessee-titans-47edb9\/2057\/huge.jpg",
+            "id": 2057,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/tennessee-titans-47edb9\/2057\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC South",
+                    "display_name": "AFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 4
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "client submitted",
+            "url": "https:\/\/seatgeek.com\/tennessee-titans-tickets",
+            "score": 0.75,
+            "slug": "tennessee-titans",
+            "home_venue_id": 1126,
+            "short_name": "Titans",
+            "num_upcoming_events": 4,
+            "colors": {
+                "all": [
+                    "#002A5C",
+                    "#4495D1",
+                    "#002A5C"
+                ],
+                "iconic": "#002A5C",
+                "primary": [
+                    "#002A5C",
+                    "#4495D1"
+                ]
+            },
+            "image_license": "client submitted",
+            "popularity": 0,
+            "location": {
+                "lat": 36.1661,
+                "lon": -86.7721
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Houston Texans",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/houston-texans-5e06de\/2071\/huge.jpg",
+            "id": 2071,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/houston-texans-5e06de\/2071\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC South",
+                    "display_name": "AFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Seatgeek VFS - 3D Model",
+            "url": "https:\/\/seatgeek.com\/houston-texans-tickets",
+            "score": 0.75,
+            "slug": "houston-texans",
+            "home_venue_id": 41,
+            "short_name": "Texans",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#03202F",
+                    "#A71930",
+                    "#03202F"
+                ],
+                "iconic": "#03202F",
+                "primary": [
+                    "#03202F",
+                    "#A71930"
+                ]
+            },
+            "image_license": "Seatgeek VFS - 3D Model",
+            "popularity": 0,
+            "location": {
+                "lat": 29.6847,
+                "lon": -95.4107
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "NFL Playoffs",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-playoffs-e2ccd1\/793008\/huge.jpg",
+            "id": 793008,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-playoffs-e2ccd1\/793008\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 66
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2023",
+            "url": "https:\/\/seatgeek.com\/nfl-playoffs-tickets",
+            "score": 0.74,
+            "slug": "nfl-playoffs",
+            "home_venue_id": null,
+            "short_name": "NFL Playoffs",
+            "num_upcoming_events": 66,
+            "colors": {
+                "all": [
+                    "#000000",
+                    "#000000"
+                ],
+                "iconic": "#000000",
+                "primary": [
+                    "#000000"
+                ]
+            },
+            "image_license": "SeatGeek - 2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Carolina Panthers",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/carolina-panthers-0c2bd9\/2063\/huge.jpg",
+            "id": 2063,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/carolina-panthers-0c2bd9\/2063\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC South",
+                    "display_name": "NFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 3
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/carolina-panthers-tickets",
+            "score": 0.74,
+            "slug": "carolina-panthers",
+            "home_venue_id": 1122,
+            "short_name": "Panthers",
+            "num_upcoming_events": 3,
+            "colors": {
+                "all": [
+                    "#101820",
+                    "#0085CA",
+                    "#101820"
+                ],
+                "iconic": "#0085CA",
+                "primary": [
+                    "#101820",
+                    "#0085CA"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 35.2258,
+                "lon": -80.8528
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "NFC Wild Card",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfc-wild-card-62270b\/793007\/huge.jpg",
+            "id": 793007,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfc-wild-card-62270b\/793007\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 10
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2023",
+            "url": "https:\/\/seatgeek.com\/nfc-wild-card-tickets",
+            "score": 0.74,
+            "slug": "nfc-wild-card",
+            "home_venue_id": null,
+            "short_name": "NFC Wild Card",
+            "num_upcoming_events": 10,
+            "colors": null,
+            "image_license": "SeatGeek - 2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Atlanta Falcons",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/atlanta-falcons-a8bc66\/2059\/huge.jpg",
+            "id": 2059,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/atlanta-falcons-a8bc66\/2059\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC South",
+                    "display_name": "NFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Seatgeek VFS - 3D Model",
+            "url": "https:\/\/seatgeek.com\/atlanta-falcons-tickets",
+            "score": 0.74,
+            "slug": "atlanta-falcons",
+            "home_venue_id": 419590,
+            "short_name": "Falcons",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#181818",
+                    "#A71930",
+                    "#A71930"
+                ],
+                "iconic": "#A71930",
+                "primary": [
+                    "#181818",
+                    "#A71930"
+                ]
+            },
+            "image_license": "Seatgeek VFS - 3D Model",
+            "popularity": 0,
+            "location": {
+                "lat": 33.7556,
+                "lon": -84.4024
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "NFC Championship",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfc-championship-3670a3\/13474\/huge.jpg",
+            "id": 13474,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfc-championship-3670a3\/13474\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 10
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2023",
+            "url": "https:\/\/seatgeek.com\/nfc-championship-tickets",
+            "score": 0.73,
+            "slug": "nfc-championship",
+            "home_venue_id": null,
+            "short_name": "NFC Championship",
+            "num_upcoming_events": 10,
+            "colors": null,
+            "image_license": "SeatGeek - 2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Arizona Cardinals",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/arizona-cardinals-098267\/2077\/huge.jpg",
+            "id": 2077,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/arizona-cardinals-098267\/2077\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "NFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "NFC West",
+                    "display_name": "NFC West",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "nfc-west"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 4
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "client provided",
+            "url": "https:\/\/seatgeek.com\/arizona-cardinals-tickets",
+            "score": 0.73,
+            "slug": "arizona-cardinals",
+            "home_venue_id": 43,
+            "short_name": "Cardinals",
+            "num_upcoming_events": 4,
+            "colors": {
+                "all": [
+                    "#000000",
+                    "#97233F",
+                    "#97233F"
+                ],
+                "iconic": "#97233F",
+                "primary": [
+                    "#000000",
+                    "#97233F"
+                ]
+            },
+            "image_license": "client provided",
+            "popularity": 0,
+            "location": {
+                "lat": 33.5276,
+                "lon": -112.263
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "NFC Divisional Round",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfc-divisional-round-3585af\/793006\/huge.jpg",
+            "id": 793006,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfc-divisional-round-3585af\/793006\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 10
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2023",
+            "url": "https:\/\/seatgeek.com\/nfc-divisional-round-tickets",
+            "score": 0.73,
+            "slug": "nfc-divisional-round",
+            "home_venue_id": null,
+            "short_name": "NFC Divisional Round",
+            "num_upcoming_events": 10,
+            "colors": null,
+            "image_license": "SeatGeek - 2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Indianapolis Colts",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/indianapolis-colts-c1de8b\/2065\/huge.jpg",
+            "id": 2065,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/indianapolis-colts-c1de8b\/2065\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC South",
+                    "display_name": "AFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - VFS 2023",
+            "url": "https:\/\/seatgeek.com\/indianapolis-colts-tickets",
+            "score": 0.73,
+            "slug": "indianapolis-colts",
+            "home_venue_id": 1130,
+            "short_name": "Colts",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#002C5F",
+                    "#A2AAAD",
+                    "#002C5F"
+                ],
+                "iconic": "#002C5F",
+                "primary": [
+                    "#002C5F",
+                    "#A2AAAD"
+                ]
+            },
+            "image_license": "SeatGeek - VFS 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 39.7601,
+                "lon": -86.1639
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Jacksonville Jaguars",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/jacksonville-jaguars-8040fa\/2064\/huge.jpg",
+            "id": 2064,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/jacksonville-jaguars-8040fa\/2064\/huge.jpg"
+            },
+            "divisions": [
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": null,
+                    "display_name": "AFC",
+                    "display_type": "Conference",
+                    "division_level": 1,
+                    "slug": null
+                },
+                {
+                    "taxonomy_id": 1020100,
+                    "short_name": "AFC South",
+                    "display_name": "AFC South",
+                    "display_type": "Division",
+                    "division_level": 2,
+                    "slug": "afc-south"
+                }
+            ],
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 6
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek VFS - 2023",
+            "url": "https:\/\/seatgeek.com\/jacksonville-jaguars-tickets",
+            "score": 0.73,
+            "slug": "jacksonville-jaguars",
+            "home_venue_id": 5178,
+            "short_name": "Jaguars",
+            "num_upcoming_events": 6,
+            "colors": {
+                "all": [
+                    "#101820",
+                    "#006778",
+                    "#006778"
+                ],
+                "iconic": "#006778",
+                "primary": [
+                    "#101820",
+                    "#006778"
+                ]
+            },
+            "image_license": "SeatGeek VFS - 2023",
+            "popularity": 0,
+            "location": {
+                "lat": 30.324,
+                "lon": -81.6373
+            },
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "NFL Hall Of Fame Game",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-hall-of-fame-game-1-b8d10e\/140920\/huge.jpg",
+            "id": 140920,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-hall-of-fame-game-1-b8d10e\/140920\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": ""
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": ""
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 2,
+                    "seo_event_type": ""
+                }
+            ],
+            "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+            "url": "https:\/\/seatgeek.com\/nfl-hall-of-fame-game-1-tickets",
+            "score": 0.73,
+            "slug": "nfl-hall-of-fame-game-1",
+            "home_venue_id": null,
+            "short_name": "NFL Hall Of Fame Game",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": "SeatGeek - 2022 (2000 X 2000)",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "NFL Draft",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-draft-bd6dca\/13937\/huge.jpg",
+            "id": 13937,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-draft-bd6dca\/13937\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+            "url": "https:\/\/seatgeek.com\/nfl-draft-tickets",
+            "score": 0.71,
+            "slug": "nfl-draft",
+            "home_venue_id": null,
+            "short_name": "NFL Draft",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": "SeatGeek - 2022 (2000 X 2000)",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "AFC Wild Card",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/afc-wild-card-e76c7f\/792984\/huge.jpg",
+            "id": 792984,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/afc-wild-card-e76c7f\/792984\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 12
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2023",
+            "url": "https:\/\/seatgeek.com\/afc-wild-card-tickets",
+            "score": 0.7,
+            "slug": "afc-wild-card",
+            "home_venue_id": null,
+            "short_name": "AFC Wild Card",
+            "num_upcoming_events": 12,
+            "colors": null,
+            "image_license": "SeatGeek - 2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "AFC Championship",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/afc-championship-7c0c05\/14051\/huge.jpg",
+            "id": 14051,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/afc-championship-7c0c05\/14051\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 12
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2023",
+            "url": "https:\/\/seatgeek.com\/afc-championship-tickets",
+            "score": 0.68,
+            "slug": "afc-championship",
+            "home_venue_id": null,
+            "short_name": "AFC Championship",
+            "num_upcoming_events": 12,
+            "colors": null,
+            "image_license": "SeatGeek - 2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "AFC Divisional Round",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/afc-divisional-round-bae3d8\/792983\/huge.jpg",
+            "id": 792983,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/afc-divisional-round-bae3d8\/792983\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": true,
+            "primary": true,
+            "stats": {
+                "event_count": 12
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek -2023",
+            "url": "https:\/\/seatgeek.com\/afc-divisional-round-tickets",
+            "score": 0.67,
+            "slug": "afc-divisional-round",
+            "home_venue_id": null,
+            "short_name": "AFC Divisional Round",
+            "num_upcoming_events": 12,
+            "colors": null,
+            "image_license": "SeatGeek -2023",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Jerry Jones Classic",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/jerry-jones-classic-186d6b\/794517\/huge.jpg",
+            "id": 794517,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/jerry-jones-classic-186d6b\/794517\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 2,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "Client Submitted - 08\/08\/2022",
+            "url": "https:\/\/seatgeek.com\/jerry-jones-classic-tickets",
+            "score": 0.67,
+            "slug": "jerry-jones-classic",
+            "home_venue_id": null,
+            "short_name": "Jerry Jones Classic",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": "Client Submitted - 08\/08\/2022",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "Draft Boil",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/draft-boil-10493e\/705588\/huge.jpg",
+            "id": 705588,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/draft-boil-10493e\/705588\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": ""
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": ""
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 10,
+                    "seo_event_type": ""
+                }
+            ],
+            "image_attribution": "null",
+            "url": "https:\/\/seatgeek.com\/draft-boil-tickets",
+            "score": 0.66,
+            "slug": "draft-boil",
+            "home_venue_id": null,
+            "short_name": "Draft Boil",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": "null",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "NFL International Series",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-international-series-73a8b8\/806011\/huge.jpg",
+            "id": 806011,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/nfl-international-series-73a8b8\/806011\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+            "url": "https:\/\/seatgeek.com\/nfl-international-series-tickets",
+            "score": 0.63,
+            "slug": "nfl-international-series",
+            "home_venue_id": null,
+            "short_name": "NFL International Series",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": "SeatGeek - 2022 (2000 X 2000)",
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "SPECIALTY PARKING Goodyear Cotton Bowl Classic",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/generic-nfl-football-7d4aac\/677209\/35946\/huge.jpg",
+            "id": 757978,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/generic-nfl-football-7d4aac\/677209\/35946\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": null,
+            "url": "https:\/\/seatgeek.com\/specialty-parking-goodyear-cotton-bowl-classic-tickets",
+            "score": 0.62,
+            "slug": "specialty-parking-goodyear-cotton-bowl-classic",
+            "home_venue_id": null,
+            "short_name": "SPECIALTY PARKING Goodyear Cotton Bowl Classic",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": null,
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "nfl",
+            "name": "RESERVED PARKING Goodyear Cotton Bowl Classic",
+            "image": "https:\/\/seatgeek.com\/images\/performers-landscape\/generic-nfl-football-7d4aac\/677209\/35946\/huge.jpg",
+            "id": 757790,
+            "images": {
+                "huge": "https:\/\/seatgeek.com\/images\/performers-landscape\/generic-nfl-football-7d4aac\/677209\/35946\/huge.jpg"
+            },
+            "divisions": null,
+            "links": [],
+            "has_upcoming_events": false,
+            "primary": true,
+            "stats": {
+                "event_count": 0
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1020000,
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "football"
+                },
+                {
+                    "id": 1020100,
+                    "name": "nfl",
+                    "parent_id": 1020000,
+                    "rank": 0,
+                    "seo_event_type": "nfl"
+                }
+            ],
+            "image_attribution": null,
+            "url": "https:\/\/seatgeek.com\/reserved-parking-goodyear-cotton-bowl-classic-tickets",
+            "score": 0.61,
+            "slug": "reserved-parking-goodyear-cotton-bowl-classic",
+            "home_venue_id": null,
+            "short_name": "RESERVED PARKING Goodyear Cotton Bowl Classic",
+            "num_upcoming_events": 0,
+            "colors": null,
+            "image_license": null,
+            "popularity": 0,
+            "location": null,
+            "image_rights_message": "",
+            "themes": [],
+            "domain_information": []
+        }
+    ],
+    "meta": {
+        "total": 445,
+        "took": 5,
+        "page": 1,
+        "per_page": 50,
+        "geolocation": null
+    }
+}
