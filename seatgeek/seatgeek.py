@@ -7,13 +7,14 @@ sys.path.append(parent_dir)
 
 import requests
 from credentials import SEATGEEK_CLIENT_ID
+from tabulate import tabulate
 
 def get_events(client_id):
     base_url = "https://api.seatgeek.com/2/events"
     params = {
         'client_id': client_id,
-        'per_page': 3,
-        'venue.name': 'Prudential Center',
+        'per_page': 5,
+        # 'venue.name': 'Prudential Center',
         # 'venue.name': 'MetLife Stadium',
         # 'venue.name': 'Madison Square Garden',
         # 'venue.name': 'Barclays Center',
@@ -21,7 +22,7 @@ def get_events(client_id):
         'taxonomies.name': 'sports',
         # 'taxonomies.name': 'basketball',
         # 'taxonomies.name': 'concert',
-        # 'geoip': '07928',
+        'geoip': '07928',
         # 'performers.slug': 'new-york-knicks'
         # 'venue.city': 'New York'
         # 'venue.state': 'AK',
@@ -31,14 +32,23 @@ def get_events(client_id):
     if response.status_code == 200:
         events = response.json().get('events', [])
         print("200")
-        return [(event['id'], event['type'], event['title'], event['datetime_local'], event['venue']['name'],event['venue']['display_location'], event['stats']['listing_count'], event['stats']['lowest_price'], event['stats']['highest_price'], event['stats']['median_price'], event['url']) for event in events]
+        return [(event['id'], event['type'], event['title'], event['datetime_local'], event['venue']['name'],event['venue']['display_location'], event['stats']['listing_count'], event['stats']['lowest_price'], event['stats']['highest_price'], event['stats']['median_price']) for event in events]
+        # event['url']
     else:
         print("error")
         return f"Error: {response.status_code}"
 
 events = get_events(SEATGEEK_CLIENT_ID)
 for event in events:
-    print(event)
+    # print(event)
+    pass
+
+headerArray = ["ID", "Type", "Title", "Date", "Venue", "Location", "ListCount", "LowPrice", "HighPrice", "MedianPrice"]
+# print(tabulate(events, headers=headerArray, tablefmt="grid"))
+# print(tabulate(events, headers=headerArray, tablefmt="plain"))
+print(tabulate(events, headers=headerArray, tablefmt="pipe"))
+# print(tabulate(events, headers=headerArray, tablefmt="simple"))
+
 
 # https://api.seatgeek.com/2/events?client_id=
 # https://api.seatgeek.com/2/events?geoip=07928&client_id=
