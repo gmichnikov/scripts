@@ -34,7 +34,7 @@ completion = client.chat.completions.create(
 
 # print(completion.choices[0].message)
 print("Finish reason: " + completion.choices[0].finish_reason)
-print("Usage: " + str(completion.usage))
+print("Usage: " + str(completion.usage) + "\n")
 # print(completion.model)
 
 content = completion.choices[0].message.content
@@ -48,7 +48,7 @@ for index, suggestion in enumerate(suggestions, start=1):
     print(f"{index}. {suggestion['name']}")
 
 while True:
-    which_sound_good = input("Which ones sound good? Enter numbers separated by commas or spaces:\n")
+    which_sound_good = input("\nWhich ones sound good? Enter numbers separated by commas or spaces:\n")
 
     try:
         # Convert the input string to a list of integers
@@ -65,7 +65,7 @@ while True:
         print("Invalid input. Please enter valid numbers separated by commas or spaces.\n")
 
 # Continue with filtered suggestions
-print("You have selected:")
+print("\nYou have selected:")
 for suggestion in filtered_suggestions:
     print("You chose: " + suggestion['name'])
 
@@ -85,7 +85,7 @@ completion = client.chat.completions.create(
 )
 
 # print(completion.choices[0].message)
-print("Finish reason: " + completion.choices[0].finish_reason)
+print("\nFinish reason: " + completion.choices[0].finish_reason)
 print("Usage: " + str(completion.usage))
 
 content = completion.choices[0].message.content
@@ -117,19 +117,20 @@ while True:
         print("Invalid input. Please enter valid numbers separated by commas or spaces.\n")
 
 # Continue with filtered suggestions
-print("You said ou have:")
+print("\nYou said ou have:")
 for ingredient in filtered_ingredients:
     print("You chose: " + ingredient)
 
-ingredient_sentence = "Here are a list of ingredients I have: " + ", ".join(filtered_ingredients)
+ingredient_sentence = "\nHere are a list of ingredients I have: " + ", ".join(filtered_ingredients)
 
 what_can_i_make_prompt = meals_sentence + ". " + ingredient_sentence + ". I also have all the basics like flour, eggs, sugar, butter, bread, milk, and other common items.\n"
 print(what_can_i_make_prompt)
 
 completion = client.chat.completions.create(
-    model="gpt-3.5-turbo-1106",
+    # model="gpt-3.5-turbo-1106",
+    model="gpt-4-1106-preview",
     messages=[
-        {"role": "system", "content": "Your goal is to help a user figure out what to make for a meal. You'll be given a list of meal ideas that sound interesting to them and a list of ingredients they have. You need to figure out which of the meal ideas they can make with the ingreidents they have. For each meal that they can make, you should provide a recipe for how to make it. Be brief in writing up the recipe. For each meal they cannot make, you need to explain why, meaning which ingredients they are missing. Be brief with the reason as well"},
+        {"role": "system", "content": "Your goal is to help a user figure out what to make for a meal. You'll be given a list of meal ideas that sound interesting to them and a list of ingredients they have. You need to figure out which of the meal ideas they can make with the ingreidents they have. For each meal that they can make, you should provide a recipe for how to make it. Be brief in writing up the recipe. For each meal they cannot make, you need to explain why, meaning which ingredients they are missing. Be brief with the reason as well. You should never put a meal into both the possible and impossible lists."},
         {"role": "user", "content": what_can_i_make_prompt + "Which meals can I make, and what is the recipe for each?\n"
          "Return a json object that looks like {\"possible meals\": [ {\"name\": <meal name>, \"recipe\": <recipe>} ], \"impossible meals\": [ {\"name\": <meal name>, \"reason\": <reason>} ] } "}
     ],
@@ -139,6 +140,9 @@ completion = client.chat.completions.create(
 )
 
 content = completion.choices[0].message.content
+
+print("\nFinish reason: " + completion.choices[0].finish_reason)
+print("Usage: " + str(completion.usage) + "\n")
 
 # Parse the string to a JSON (dictionary) object
 parsed_json = json.loads(content)
